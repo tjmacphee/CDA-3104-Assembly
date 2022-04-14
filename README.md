@@ -1,5 +1,5 @@
 # CDA-3104-Assembly
-Assembly language project
+Assembly language group-collaboration project
 
 Purpose - according to current sound level, flash corresponding led lights to indicate them.
 
