@@ -1,10 +1,11 @@
 ; 
 ; Ultrasonic.asm
 ; 
+; **provided by professor, modified by students**
 ; Author: P.Allen
 ; Purpose: Library for an HCSR04 Ultrasonic Ranging Module
 ;
-;changed by Jie Zhou
+;changed by Jie Zhou, Tyler MacPhee
 
 
 ; 1.) Configure the following GPIO: 
