@@ -1,5 +1,5 @@
 # CDA-3104-Assembly
-Assembly language group-collaboration project
+Assembly language group-collaboration project (ARDUINO)
 
 Purpose - according to current distance of object using an ultrasonic sensor, flash corresponding led lights to indicate the level of distance.
 
