@@ -1,7 +1,7 @@
 # CDA-3104-Assembly
 Assembly language group-collaboration project
 
-Purpose - according to current sound level, flash corresponding led lights to indicate them.
+Purpose - according to current distance of object using an ultrasonic sensor, flash corresponding led lights to indicate the level of distance.
 
 See PDF for diagram of wiring.
 
