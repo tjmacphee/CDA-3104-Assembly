@@ -2,7 +2,7 @@
 ; LEDSonicSensor.asm
 ;
 ; Created: 12/9/2021 2:52:16 PM
-; Author : JieZhou
+; Author : JieZhou, Tyler MacPhee
 ;
 
 ; Interrupt vector table
