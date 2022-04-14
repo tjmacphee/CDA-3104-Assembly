@@ -2,7 +2,9 @@
  * delay.asm
  *
  *  Created: 12/9/2021 6:27:47 PM
- *   Author: Jie Zhou
+ *   Author: Jie Zhou, Tyler MacPhee
+ *
+ *  @purpose - delay leds from changing to fast with a 3s wait timer
  */ 
 T1Normal:
 
